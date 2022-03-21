@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/drawable/outline_business_24.xml" value="0.36875" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/drawable/outline_library_books_24.xml" value="0.36875" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/drawable/outline_people_24.xml" value="0.36875" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/drawable/outline_place_24.xml" value="0.36875" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/layout-land/activity_detail_user.xml" value="0.4002375296912114" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/layout/activity_bookmark.xml" value="0.1765625" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/layout/activity_detail_user.xml" value="0.25" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/layout/item_row_user.xml" value="0.2125" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/layout/tab_layout.xml" value="0.35260416666666666" />
+        <entry key="..\:/Kampus/bangkit/android/submission/app/src/main/res/menu/mainmenu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

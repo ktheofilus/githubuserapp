@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/bookmark"
+          android:id="@+id/bookmark"
+          android:icon = "@drawable/ic_baseline_bookmark_24"
+          app:showAsAction="always" />
+    <item android:title="@string/nightmode"
+          android:id="@+id/nightmode"
+          android:icon = "@drawable/ic_baseline_dark_mode_24"
+          app:showAsAction="always" />
+</menu>
